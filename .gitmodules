@@ -1,6 +1,0 @@
-[submodule "rack"]
-	path = rack
-	url = git@github.com:DanaZhao/TestGithub.git
-[submodule "release-20130909"]
-	path = release-20130909
-	url = git@github.com:DanaZhao/TestGithub.git
